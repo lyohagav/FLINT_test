@@ -27,4 +27,6 @@
         Кроме того, <a href="http://go.microsoft.com/fwlink/?LinkID=152368"
             title="Документация по ASP.NET на MSDN">документация по ASP.NET доступна на MSDN</a>.
     </p>
+    
+    <h1>Bla bla bla</h1>
 </asp:Content>
