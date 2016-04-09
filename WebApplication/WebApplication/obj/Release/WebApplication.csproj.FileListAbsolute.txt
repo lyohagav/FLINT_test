@@ -1,0 +1,4 @@
+D:\Git\WebApplication\WebApplication\bin\WebApplication.dll
+D:\Git\WebApplication\WebApplication\bin\WebApplication.pdb
+D:\Git\WebApplication\WebApplication\obj\Release\WebApplication.dll
+D:\Git\WebApplication\WebApplication\obj\Release\WebApplication.pdb
