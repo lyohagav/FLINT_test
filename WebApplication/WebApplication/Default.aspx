@@ -21,6 +21,7 @@
                 ForeColor="#FFFFCC" />
             <TodayDayStyle BackColor="#FFCC66" ForeColor="White" />
         </asp:Calendar>
+        <asp:Button ID="Button1" runat="server" onclick="Button1_Click" Text="Button" />
     </p>
     <p>
         Кроме того, <a href="http://go.microsoft.com/fwlink/?LinkID=152368"
