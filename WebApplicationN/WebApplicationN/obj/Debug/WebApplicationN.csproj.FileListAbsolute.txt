@@ -1,4 +1,0 @@
-D:\Git\WebApplicationN\WebApplicationN\bin\WebApplicationN.dll
-D:\Git\WebApplicationN\WebApplicationN\bin\WebApplicationN.pdb
-D:\Git\WebApplicationN\WebApplicationN\obj\Debug\WebApplicationN.dll
-D:\Git\WebApplicationN\WebApplicationN\obj\Debug\WebApplicationN.pdb
