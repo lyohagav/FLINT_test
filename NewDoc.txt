@@ -1,5 +1,5 @@
 Chenge file and dellit  old data
 112233
 
-0
-0
+1
+1
