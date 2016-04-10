@@ -22,9 +22,11 @@ namespace formaplication
         }
 
         
-        private void button3_Click(object sender, EventArgs e)
+        
+
+        private void button4_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("was pressed buttton 2");
+            MessageBox.Show("was pressed buttton 4");
         }
     }
 }
