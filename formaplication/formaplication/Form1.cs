@@ -21,9 +21,10 @@ namespace formaplication
             MessageBox.Show("Hello it is first action");
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        
+        private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("was pressed buttton 1");
+            MessageBox.Show("was pressed buttton 2");
         }
     }
 }
