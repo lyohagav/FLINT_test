@@ -5,3 +5,4 @@ D:\Git\formaplication\formaplication\obj\x86\Release\formaplication.Properties.R
 D:\Git\formaplication\formaplication\obj\x86\Release\formaplication.csproj.GenerateResource.Cache
 D:\Git\formaplication\formaplication\obj\x86\Release\formaplication.exe
 D:\Git\formaplication\formaplication\obj\x86\Release\formaplication.pdb
+D:\Git\formaplication\formaplication\obj\x86\Release\formaplication.csprojResolveAssemblyReference.cache
